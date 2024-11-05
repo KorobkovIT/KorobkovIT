@@ -7,3 +7,4 @@
 ![Static Badge](https://img.shields.io/badge/py-python-blue?style=plastic&logo=python)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KorobkovIT&show_icons=true&theme=radical)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KorobkovIT)](https://github.com/anuraghazra/github-readme-stats)'
